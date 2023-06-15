@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d886290-e6d9-4ddd-9eb6-0abc5edcffe9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/onlinesales/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/onlinesales/task1/EventSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/onlinesales/task2/EquationResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/onlinesales/task1/EventSimulatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/onlinesales/task2/EquationResolverTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RDwUZegCm2f2b037N14HOctGoI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "onboarding.tips.debug.path": "C:/Users/rakshit/IdeaProjects/onlinesales-assignment/src/main/java/onlinesales-assignment/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rakshit\IdeaProjects\onlinesales-assignment\src\test\java" />
+      <recent name="C:\Users\rakshit\IdeaProjects\onlinesales-assignment\src\test\java\onlinesales" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="onlinesales.task2" />
+      <recent name="onlinesales.task1" />
+      <recent name="onlinesales" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="EquationResolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="onlinesales.task2.EquationResolver" />
+      <module name="onlinesales-assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onlinesales.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="onlinesales.task1.EventSimulator" />
+      <module name="onlinesales-assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onlinesales.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="onlinesales.Main" />
+      <module name="onlinesales-assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onlinesales.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EquationResolverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="onlinesales-assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onlinesales.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="onlinesales.task2" />
+      <option name="MAIN_CLASS_NAME" value="onlinesales.task2.EquationResolverTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventSimulatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="onlinesales-assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onlinesales.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="onlinesales.task1" />
+      <option name="MAIN_CLASS_NAME" value="onlinesales.task1.EventSimulatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.EquationResolverTest" />
+        <item itemvalue="Application.EquationResolver" />
+        <item itemvalue="JUnit.EventSimulatorTest" />
+        <item itemvalue="Application.EventSimulator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d886290-e6d9-4ddd-9eb6-0abc5edcffe9" name="Changes" comment="" />
+      <created>1686797977314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686797977314</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/onlinesales/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
